@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: 211223789150.dkr.ecr.us-east-1.amazonaws.com/devops/my-docker-repo
+  repository: 767397879709.dkr.ecr.eu-north-1.amazonaws.com/mydockerrepoecr
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: ""
